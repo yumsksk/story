@@ -1,7 +1,6 @@
-
-.classpath    
-.git  
-.project  
-.settings  
-.springBeans   
-target
+.classpath 
+.git 
+.gitignore 
+.settings 
+.springBeans 
+target 

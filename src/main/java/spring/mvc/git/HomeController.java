@@ -1,4 +1,4 @@
-package com.aaa.aaa;
+package spring.mvc.git;
 
 import java.text.DateFormat;
 import java.util.Date;
